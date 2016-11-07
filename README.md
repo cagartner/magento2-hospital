@@ -11,3 +11,7 @@ Comando para corrigir permissões de pasta:
 Comandos para limpar cache, habilitar todos os módulos, compilar arquivos, rodar reindex e tudo o que há de bom.
 
 `bash dorflex.sh`
+
+Comandos para compilar less, atualizar modulos e arquivos do front:
+
+`bash frontstuff.sh`
